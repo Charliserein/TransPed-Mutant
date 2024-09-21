@@ -1,5 +1,8 @@
 # TransPed-Mutant
 
-![b66b71d3224ee0d1b8bd5fcd06c81ff](https://github.com/user-attachments/assets/5dfd9950-b499-451f-97c8-29eb6c6ebab7)
+![image](https://github.com/user-attachments/assets/f763e065-c3fe-4960-ad54-10f2094bf954)
+![image](https://github.com/user-attachments/assets/94b01f08-fe45-4000-b658-637a31c680cf)
+![image](https://github.com/user-attachments/assets/51945514-7d19-45bf-92d7-9057e564966b)
+![image](https://github.com/user-attachments/assets/9656da55-641f-450d-bfe4-e9564337eecd)
 
-![image](https://github.com/user-attachments/assets/d601fef4-baad-4928-a1e1-ebc01e2052cb)
+![image](https://github.com/user-attachments/assets/e327e687-d91b-44d6-bacf-9cd6ad9e1adf)
