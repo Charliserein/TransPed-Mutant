@@ -1,6 +1,6 @@
 # TransPed-Mutant
 
-🚀 初始化开发环境
+🚀 Initialize the development environment
 
 pip install requirements.txt
 
