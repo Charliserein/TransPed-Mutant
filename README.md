@@ -32,6 +32,8 @@ From the figure, it can be observed that there are both similarities and differe
 ![image](https://github.com/user-attachments/assets/9aa56ff9-97e9-4e84-9026-e450e492e338)
 ![image](https://github.com/user-attachments/assets/bf110d2a-97e2-49c5-8c36-109e163bc99d)
 
+Taking the Y68 and H98 binding sites as examples, we compared the experimentally determined 3D structure of PD-1/PD-L1 with the attention map from the sample. We mutated the binding peptide VFNWGHFQE simulated for PD-L1. As shown in the figure, the glycine (G) and asparagine (N) residue positions have lower scores, so the model prioritized and mutated these sites with high negative contributions, resulting in the mutant peptide VFAWLHFQE.
+
 ![image](https://github.com/user-attachments/assets/22221b2a-b5d3-4473-a531-22da5e115d4a)
 ![image](https://github.com/user-attachments/assets/29a14c1f-576a-48b7-a6d2-24a744b22702)
 ![image](https://github.com/user-attachments/assets/f0df9e27-ba3a-4175-9613-f32cabad51ee)
