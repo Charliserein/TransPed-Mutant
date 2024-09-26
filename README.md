@@ -11,6 +11,8 @@
 
 ![image](https://github.com/user-attachments/assets/51945514-7d19-45bf-92d7-9057e564966b)
 
+From the figure, it can be observed that there are both similarities and differences in the amino acid composition across the three PD-1 binding peptide datasets (400, 300, and 100 peptides). Alanine shows a relatively high proportion in all datasets, particularly in the 400 and 300 peptide PD-1 binding datasets, where it approaches 0.08. Cysteine has a low proportion across all three datasets, especially in the 100 peptide PD-1 binding dataset, where its proportion is nearly zero. Threonine has a significantly higher proportion in the 400 peptide dataset, close to 0.09, which may suggest that the occurrence frequency of threonine increases in larger datasets. Overall, the proportion of some amino acids varies across datasets of different sizes, with proline (P) and threonine (T) showing the most noticeable changes, indicating that the proportion of these amino acids in PD-1 binding peptides changes as the sample size increases.
+
 ![image](https://github.com/user-attachments/assets/9656da55-641f-450d-bfe4-e9564337eecd)
 
 ![image](https://github.com/user-attachments/assets/fabbd1b7-35f9-493e-95e0-d866b392262c)
